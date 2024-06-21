@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<title>Hotel Website | Gallery</title>
+<title>Villa Gaia Website | Gallery</title>
 <style>
 label{display:inline-block;width:100px;margin-bottom:10px;}
      body  {
