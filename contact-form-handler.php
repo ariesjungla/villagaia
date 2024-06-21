@@ -4,7 +4,7 @@ $email_from = 'electroniumweb@gmail.com';
 $email_subject = " Hotel booking successful";
 $email_body= "User email: $userName \n".
              "Message: Thank you for booking";
-$to = "ibrahimsyed026@gmail.com";
+$to = "@gmail.com";
 $headers = "From: $email_from \r\n";
 $headers .= "Reply-To: $name \r\n";
 
